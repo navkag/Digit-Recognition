@@ -2,6 +2,9 @@
 
 This project focuses on the task of handwritten digit recognition using machine learning techniques. The goal is to accurately classify handwritten digits from the popular MNIST dataset. The project incorporates various steps, including data preparation, model selection, hyperparameter tuning, and addressing position sensitivity issues.
 
+## Demo
+https://github.com/navkag/Digit-Recognition/assets/88591105/6d08fc0c-9152-40a8-8ce5-7c27ce57389d
+
 ## Dataset
 
 The project begins by loading the MNIST dataset, which consists of a large collection of labeled handwritten digits ranging from 0 to 9. The dataset is split into a training set and a test set to evaluate the model's performance on unseen data.
@@ -62,4 +65,8 @@ By continuing to explore these possibilities, the accuracy and reliability of th
 The Handwritten Digit Recognition project demonstrates the application of machine learning techniques to accurately classify handwritten digits. By combining data preprocessing, model selection, hyperparameter tuning, and custom augmentation, the final model achieves an impressive accuracy of 98.17%.
 
 Through this project, valuable insights are gained into the process of developing and fine-tuning machine learning models for image classification tasks. The model's ability to generalize and overcome position sensitivity issues showcases the significance of carefully considering the dataset and implementing appropriate techniques.
+
+
+
+
 

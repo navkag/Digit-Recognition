@@ -67,6 +67,14 @@ The Handwritten Digit Recognition project demonstrates the application of machin
 Through this project, valuable insights are gained into the process of developing and fine-tuning machine learning models for image classification tasks. The model's ability to generalize and overcome position sensitivity issues showcases the significance of carefully considering the dataset and implementing appropriate techniques.
 
 
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/navkag/Digit-Recognition.git`
+2. Install the necessary dependencies: `pip install -r requirements.txt`
+3. Run Canvas.ipynb to access on-screen canvas.
+
 
 
 
